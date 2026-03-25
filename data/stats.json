@@ -1,0 +1,16 @@
+{
+  "total_plants": 250,
+  "total_drug_classes": 53,
+  "total_interactions": 592,
+  "severity_distribution": {
+    "alta": 84,
+    "moderada": 288,
+    "baja": 220
+  },
+  "sources": [
+    "EMA/ESCOP monographs",
+    "PubMed Central",
+    "WHO monographs",
+    "TRAMIL database"
+  ]
+}

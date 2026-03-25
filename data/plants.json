@@ -8,7 +8,8 @@
       "corazoncillo",
       "St. John's Wort"
     ],
-    "article": "/noticias/suplementos-herbales-disfuncion-erectil-metaanalisis/"
+    "article": "/noticias/suplementos-herbales-disfuncion-erectil-metaanalisis/",
+    "interaction_count": 26
   },
   {
     "id": "curcuma",
@@ -18,7 +19,8 @@
       "turmeric",
       "palillo"
     ],
-    "article": "/noticias/curcuma-salud-periodontal-metaanalisis/"
+    "article": "/noticias/curcuma-salud-periodontal-metaanalisis/",
+    "interaction_count": 16
   },
   {
     "id": "ginkgo",
@@ -28,7 +30,8 @@
       "ginkgo biloba",
       "árbol de los cuarenta escudos"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 11
   },
   {
     "id": "ajo",
@@ -37,7 +40,8 @@
     "aliases": [
       "garlic"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 9
   },
   {
     "id": "ginseng",
@@ -48,7 +52,8 @@
       "ginseng asiático",
       "Korean ginseng"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 8
   },
   {
     "id": "valeriana",
@@ -57,7 +62,8 @@
     "aliases": [
       "valerian"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 10
   },
   {
     "id": "equinacea",
@@ -66,7 +72,8 @@
     "aliases": [
       "echinacea"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 6
   },
   {
     "id": "kava",
@@ -75,7 +82,8 @@
     "aliases": [
       "kava-kava"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 11
   },
   {
     "id": "jengibre",
@@ -85,7 +93,8 @@
       "ginger",
       "kión"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 6
   },
   {
     "id": "berberina",
@@ -94,7 +103,8 @@
     "aliases": [
       "berberine"
     ],
-    "article": "/noticias/berberina-grasa-visceral-obesidad-ensayo-jama/"
+    "article": "/noticias/berberina-grasa-visceral-obesidad-ensayo-jama/",
+    "interaction_count": 9
   },
   {
     "id": "una_de_gato",
@@ -103,7 +113,8 @@
     "aliases": [
       "cat's claw"
     ],
-    "article": "/noticias/una-de-gato-aterosclerosis-estudio/"
+    "article": "/noticias/una-de-gato-aterosclerosis-estudio/",
+    "interaction_count": 4
   },
   {
     "id": "ayahuasca",
@@ -112,7 +123,8 @@
     "aliases": [
       "yagé"
     ],
-    "article": "/noticias/ayahuasca-terapeutica-revision-evalua-su-potencial-en-depresion-y-ansiedad/"
+    "article": "/noticias/ayahuasca-terapeutica-revision-evalua-su-potencial-en-depresion-y-ansiedad/",
+    "interaction_count": 5
   },
   {
     "id": "chanca_piedra",
@@ -122,7 +134,8 @@
       "stone breaker",
       "quebra pedra"
     ],
-    "article": "/noticias/chanca-piedra-proteccion-renal-diabetes-estudio/"
+    "article": "/noticias/chanca-piedra-proteccion-renal-diabetes-estudio/",
+    "interaction_count": 3
   },
   {
     "id": "sangre_de_drago",
@@ -132,7 +145,8 @@
       "dragon's blood",
       "sangre de grado"
     ],
-    "article": "/noticias/sangre-de-drago-anticoagulante-natural-loureirin/"
+    "article": "/noticias/sangre-de-drago-anticoagulante-natural-loureirin/",
+    "interaction_count": 2
   },
   {
     "id": "saw_palmetto",
@@ -142,7 +156,8 @@
       "palma enana americana",
       "sabal"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 4
   },
   {
     "id": "te_verde",
@@ -152,7 +167,8 @@
       "green tea",
       "matcha"
     ],
-    "article": "/noticias/curcumina-te-verde-egcg-bdnf-estado-animo-ensayo/"
+    "article": "/noticias/curcumina-te-verde-egcg-bdnf-estado-animo-ensayo/",
+    "interaction_count": 10
   },
   {
     "id": "hoja_de_coca",
@@ -161,14 +177,16 @@
     "aliases": [
       "coca leaf"
     ],
-    "article": "/noticias/masticar-hoja-de-coca-reduce-el-cortisol-en-mineros-andinos-segun-estudio-piloto/"
+    "article": "/noticias/masticar-hoja-de-coca-reduce-el-cortisol-en-mineros-andinos-segun-estudio-piloto/",
+    "interaction_count": 3
   },
   {
     "id": "guayusa",
     "name": "Guayusa",
     "scientific": "Ilex guayusa",
     "aliases": [],
-    "article": "/noticias/guayusa-guarana-compuestos-naturales-rendimiento-cognitivo/"
+    "article": "/noticias/guayusa-guarana-compuestos-naturales-rendimiento-cognitivo/",
+    "interaction_count": 2
   },
   {
     "id": "guarana",
@@ -177,7 +195,8 @@
     "aliases": [
       "guarana"
     ],
-    "article": "/noticias/guayusa-guarana-compuestos-naturales-rendimiento-cognitivo/"
+    "article": "/noticias/guayusa-guarana-compuestos-naturales-rendimiento-cognitivo/",
+    "interaction_count": 4
   },
   {
     "id": "maca",
@@ -188,7 +207,8 @@
       "maca andina",
       "Peruvian maca"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 4
   },
   {
     "id": "melon_amargo",
@@ -199,7 +219,8 @@
       "cundeamor",
       "balsamina"
     ],
-    "article": "/noticias/melon-amargo-diabetes-tipo-2-evidencia/"
+    "article": "/noticias/melon-amargo-diabetes-tipo-2-evidencia/",
+    "interaction_count": 2
   },
   {
     "id": "achiote",
@@ -211,7 +232,8 @@
       "urucú",
       "onoto"
     ],
-    "article": "/noticias/bixina-achiote-potencial-farmacologico-revision/"
+    "article": "/noticias/bixina-achiote-potencial-farmacologico-revision/",
+    "interaction_count": 3
   },
   {
     "id": "sacha_inchi",
@@ -221,7 +243,8 @@
       "maní del inca",
       "Inca peanut"
     ],
-    "article": "/noticias/sacha-inchi-curcumina-sinergia-anticancer/"
+    "article": "/noticias/sacha-inchi-curcumina-sinergia-anticancer/",
+    "interaction_count": 3
   },
   {
     "id": "chiric_sanango",
@@ -231,7 +254,8 @@
       "chiricaspi",
       "manacá"
     ],
-    "article": "/noticias/chiric-sanango-planta-amazonica-adicciones-takiwasi/"
+    "article": "/noticias/chiric-sanango-planta-amazonica-adicciones-takiwasi/",
+    "interaction_count": 2
   },
   {
     "id": "aguaymanto",
@@ -242,7 +266,8 @@
       "golden berry",
       "cape gooseberry"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "camu_camu",
@@ -251,7 +276,8 @@
     "aliases": [
       "camu-camu"
     ],
-    "article": "/noticias/frutas-amazonicas-potencial-anticancer-revision/"
+    "article": "/noticias/frutas-amazonicas-potencial-anticancer-revision/",
+    "interaction_count": 3
   },
   {
     "id": "graviola",
@@ -261,7 +287,8 @@
       "guanábana",
       "soursop"
     ],
-    "article": "/noticias/frutas-amazonicas-potencial-anticancer-revision/"
+    "article": "/noticias/frutas-amazonicas-potencial-anticancer-revision/",
+    "interaction_count": 2
   },
   {
     "id": "espino_blanco",
@@ -271,7 +298,8 @@
       "hawthorn",
       "majuelo"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 5
   },
   {
     "id": "hercampuri",
@@ -281,7 +309,8 @@
       "hircampuri",
       "té amargo"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 4
   },
   {
     "id": "carqueja",
@@ -290,7 +319,8 @@
     "aliases": [
       "carqueja amarga"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "manayupa",
@@ -300,7 +330,8 @@
       "pata de perro",
       "amor seco"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "muna",
@@ -310,7 +341,8 @@
       "muña andina",
       "tipo"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "pasuchaca",
@@ -319,7 +351,8 @@
     "aliases": [
       "pasuchaka"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "arandano",
@@ -330,7 +363,8 @@
       "blueberry",
       "mirtilo"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "tarwi",
@@ -340,7 +374,8 @@
       "lupino andino",
       "chocho"
     ],
-    "article": "/noticias/tarwi-chocho-microbioma-seguridad-alimentaria-andino/"
+    "article": "/noticias/tarwi-chocho-microbioma-seguridad-alimentaria-andino/",
+    "interaction_count": 2
   },
   {
     "id": "ashwagandha",
@@ -351,7 +386,8 @@
       "bufera",
       "Indian ginseng"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 9
   },
   {
     "id": "rhodiola",
@@ -362,7 +398,8 @@
       "golden root",
       "roseroot"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 6
   },
   {
     "id": "cardo_mariano",
@@ -372,7 +409,8 @@
       "milk thistle",
       "silimarina"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 6
   },
   {
     "id": "cimicifuga",
@@ -382,7 +420,8 @@
       "black cohosh",
       "cohosh negro"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "dong_quai",
@@ -393,7 +432,8 @@
       "dang gui",
       "female ginseng"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "matricaria",
@@ -403,7 +443,8 @@
       "feverfew",
       "altamisa"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "onagra",
@@ -413,7 +454,8 @@
       "evening primrose",
       "aceite de onagra"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "romero",
@@ -423,7 +465,8 @@
       "rosemary",
       "ácido rosmarínico"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "salvia",
@@ -433,7 +476,8 @@
       "sage",
       "salvia común"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "pasiflora",
@@ -444,7 +488,8 @@
       "maracuyá silvestre",
       "flor de la pasión"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 6
   },
   {
     "id": "regaliz",
@@ -455,7 +500,8 @@
       "orozuz",
       "palo dulce"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 6
   },
   {
     "id": "diente_de_leon",
@@ -465,7 +511,8 @@
       "dandelion",
       "amargón"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 4
   },
   {
     "id": "aloe_vera",
@@ -475,7 +522,8 @@
       "sábila",
       "aloe"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 6
   },
   {
     "id": "canela",
@@ -485,7 +533,8 @@
       "cinnamon",
       "canela de Ceilán"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "fenogreco",
@@ -495,7 +544,8 @@
       "fenugreek",
       "alholva"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 4
   },
   {
     "id": "lino",
@@ -506,7 +556,8 @@
       "linseed",
       "semilla de lino"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "ortiga",
@@ -516,7 +567,8 @@
       "nettle",
       "stinging nettle"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "saw_palmetto_2",
@@ -527,7 +579,8 @@
       "elder",
       "sauco"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "hiperico_andino",
@@ -536,7 +589,8 @@
     "aliases": [
       "boldo chileno"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "cascara_sagrada",
@@ -546,7 +600,8 @@
       "cascara",
       "sacred bark"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "senna",
@@ -557,7 +612,8 @@
       "casia",
       "hoja de sen"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 4
   },
   {
     "id": "pygeum",
@@ -567,7 +623,8 @@
       "ciruelo africano",
       "pygeum africanum"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "tribulus",
@@ -577,7 +634,8 @@
       "abrojo",
       "puncture vine"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "astragalo",
@@ -587,7 +645,8 @@
       "astragalus",
       "huang qi"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "schisandra",
@@ -597,7 +656,8 @@
       "baya de los cinco sabores",
       "wu wei zi"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "cordyceps",
@@ -607,7 +667,8 @@
       "hongo cordyceps",
       "yartsa gunbu"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "reishi",
@@ -617,7 +678,8 @@
       "lingzhi",
       "hongo reishi"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 4
   },
   {
     "id": "melisa",
@@ -628,7 +690,8 @@
       "toronjil",
       "hierba luisa"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "gotu_kola",
@@ -638,7 +701,8 @@
       "centella asiática",
       "hierba del tigre"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 4
   },
   {
     "id": "noni",
@@ -648,7 +712,8 @@
       "mora de la India",
       "Indian mulberry"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "moringa",
@@ -658,7 +723,8 @@
       "árbol milagroso",
       "drumstick tree"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 5
   },
   {
     "id": "chia",
@@ -668,7 +734,8 @@
       "chia seeds",
       "semillas de chía"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "tilo",
@@ -679,7 +746,8 @@
       "flor de tilo",
       "lime tree"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "oregano",
@@ -689,7 +757,8 @@
       "oregano oil",
       "aceite de orégano"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "tomillo",
@@ -699,7 +768,8 @@
       "thyme",
       "timol"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "cola_de_caballo",
@@ -709,7 +779,8 @@
       "horsetail",
       "equiseto"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 5
   },
   {
     "id": "hamamelis",
@@ -718,7 +789,8 @@
     "aliases": [
       "witch hazel"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "yacon",
@@ -728,7 +800,8 @@
       "yacón andino",
       "jícama del Perú"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "huamanpinta",
@@ -737,7 +810,8 @@
     "aliases": [
       "huamanpinta andina"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "matico",
@@ -747,7 +821,8 @@
       "pañil",
       "matico chileno"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "tara",
@@ -757,7 +832,8 @@
       "taya",
       "guarango"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "stevia",
@@ -767,7 +843,8 @@
       "estevia",
       "hierba dulce"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "cat_de_vallesia",
@@ -777,7 +854,8 @@
       "hierba sagrada",
       "vervain"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "chancapiedra_grande",
@@ -787,7 +865,8 @@
       "melissa",
       "toronjil"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "acai",
@@ -797,7 +876,8 @@
       "asaí",
       "acai berry"
     ],
-    "article": "/noticias/frutas-amazonicas-potencial-anticancer-revision/"
+    "article": "/noticias/frutas-amazonicas-potencial-anticancer-revision/",
+    "interaction_count": 3
   },
   {
     "id": "llanten",
@@ -807,7 +887,8 @@
       "plantain",
       "hierba del soldado"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 4
   },
   {
     "id": "hierba_buena",
@@ -817,7 +898,8 @@
       "spearmint",
       "menta verde"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "menta",
@@ -827,7 +909,8 @@
       "peppermint",
       "menta piperita"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "calendula",
@@ -837,7 +920,8 @@
       "marigold",
       "mercadela"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "damiana",
@@ -847,7 +931,8 @@
       "hierba del pastor",
       "hierba de la pastora"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "alcachofa",
@@ -857,7 +942,8 @@
       "artichoke",
       "alcachofera"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "valeriana_andina",
@@ -867,7 +953,8 @@
       "nimbo",
       "nim"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "nopal",
@@ -878,7 +965,8 @@
       "prickly pear",
       "cactus nopal"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "omega_3",
@@ -890,7 +978,8 @@
       "EPA",
       "DHA"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 5
   },
   {
     "id": "coq10",
@@ -900,7 +989,8 @@
       "CoQ10",
       "ubiquinol"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 5
   },
   {
     "id": "melatonina",
@@ -909,7 +999,8 @@
     "aliases": [
       "melatonin"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 8
   },
   {
     "id": "vitamina_d",
@@ -920,7 +1011,8 @@
       "vitamin D",
       "calciferol"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 6
   },
   {
     "id": "vitamina_k",
@@ -931,7 +1023,8 @@
       "vitamin K",
       "MK-7"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "magnesio",
@@ -942,7 +1035,8 @@
       "citrato de magnesio",
       "glicinato de magnesio"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "zinc_supl",
@@ -952,7 +1046,8 @@
       "zinc picolinato",
       "zinc bisglicinato"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "hierro_supl",
@@ -963,7 +1058,8 @@
       "sulfato ferroso",
       "hierro bisglicinato"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "probioticos",
@@ -973,7 +1069,8 @@
       "probiotics",
       "flora intestinal"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "creatina",
@@ -983,7 +1080,8 @@
       "creatine",
       "creatine monohydrate"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "5htp",
@@ -993,7 +1091,8 @@
       "griffonia",
       "Griffonia simplicifolia"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 4
   },
   {
     "id": "glutamina",
@@ -1002,7 +1101,8 @@
     "aliases": [
       "glutamine"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "boldo",
@@ -1012,7 +1112,8 @@
       "boldea",
       "boldu"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "muicle",
@@ -1022,7 +1123,8 @@
       "muitle",
       "hierba del añil"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "epazote",
@@ -1033,7 +1135,8 @@
       "wormseed",
       "chenopodium"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "hierba_luisa",
@@ -1044,7 +1147,8 @@
       "cedrón",
       "verbena de Indias"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "muña_negra",
@@ -1053,7 +1157,8 @@
     "aliases": [
       "tipo andino"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "huacatay",
@@ -1063,7 +1168,8 @@
       "black mint",
       "chinchilla"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "mullaca",
@@ -1072,7 +1178,8 @@
     "aliases": [
       "complejo mullaca"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "sachaculantro",
@@ -1083,7 +1190,8 @@
       "cilantro de monte",
       "recao"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "toronjil",
@@ -1093,7 +1201,8 @@
       "lemon balm",
       "melisa andina"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "coca_mate",
@@ -1103,7 +1212,8 @@
       "coca tea",
       "mate de coca"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "ajenjo",
@@ -1113,7 +1223,8 @@
       "wormwood",
       "artemisa"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "ruda",
@@ -1123,7 +1234,8 @@
       "rue",
       "ruda macho"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "zarzaparrilla",
@@ -1133,7 +1245,8 @@
       "sarsaparilla",
       "cuculmeca"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "ratania",
@@ -1143,7 +1256,8 @@
       "rhatany",
       "mapato"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "quina",
@@ -1154,7 +1268,8 @@
       "cascarilla",
       "quinaquina"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "barbasco",
@@ -1164,7 +1279,8 @@
       "cube root",
       "rotenona natural"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "nigella",
@@ -1175,7 +1291,8 @@
       "kalonji",
       "ajenuz"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 5
   },
   {
     "id": "kratom",
@@ -1185,7 +1302,8 @@
       "biak-biak",
       "kratón"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 6
   },
   {
     "id": "cannabis",
@@ -1197,7 +1315,8 @@
       "marihuana medicinal",
       "hemp"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 9
   },
   {
     "id": "efedra",
@@ -1208,7 +1327,8 @@
       "ma huang",
       "efedrina natural"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 5
   },
   {
     "id": "milenrama",
@@ -1218,7 +1338,8 @@
       "yarrow",
       "mil hojas"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "arnica",
@@ -1228,7 +1349,8 @@
       "arnica montana",
       "tabaco de montaña"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "uva_ursi",
@@ -1238,7 +1360,8 @@
       "bearberry",
       "uva de oso"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "hierba_de_dios",
@@ -1248,7 +1371,8 @@
       "ska pastora",
       "hierba María"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "ginseng_americano",
@@ -1258,7 +1382,8 @@
       "American ginseng",
       "ginseng del norte"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "te_rojo",
@@ -1268,7 +1393,8 @@
       "rooibos",
       "red bush tea"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "gymnema",
@@ -1278,7 +1404,8 @@
       "gurmar",
       "destroyer of sugar"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "psyllium",
@@ -1289,7 +1416,8 @@
       "ispaghula",
       "metamucil"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "cardo_santo",
@@ -1299,7 +1427,8 @@
       "blessed thistle",
       "cardo bendito"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "fumaria",
@@ -1309,7 +1438,8 @@
       "fumitory",
       "palomilla"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "borraja",
@@ -1319,7 +1449,8 @@
       "borage",
       "aceite de borraja"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "agnocasto",
@@ -1330,7 +1461,8 @@
       "vitex",
       "pimienta de monje"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "harpagofito",
@@ -1340,7 +1472,8 @@
       "devil's claw",
       "uña del diablo"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "eucalipto",
@@ -1349,7 +1482,8 @@
     "aliases": [
       "eucalyptus"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "malva",
@@ -1359,7 +1493,8 @@
       "mallow",
       "malva silvestre"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "sauco",
@@ -1370,7 +1505,8 @@
       "elder",
       "baya de saúco"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "same",
@@ -1380,7 +1516,8 @@
       "SAM-e",
       "ademetionina"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 4
   },
   {
     "id": "l_teanina",
@@ -1390,7 +1527,8 @@
       "theanine",
       "suntheanine"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "triptofano",
@@ -1399,7 +1537,8 @@
     "aliases": [
       "L-tryptophan"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "biotina",
@@ -1410,7 +1549,8 @@
       "vitamina H",
       "B7"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "selenio",
@@ -1420,7 +1560,8 @@
       "selenium",
       "selenometionina"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "cromo",
@@ -1431,7 +1572,8 @@
       "picolinato de cromo",
       "chromium picolinate"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "glucosamina",
@@ -1441,7 +1583,8 @@
       "glucosamine sulfate",
       "sulfato de glucosamina"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "condroitina",
@@ -1451,7 +1594,8 @@
       "chondroitin",
       "sulfato de condroitina"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "acido_alfa_lipoico",
@@ -1461,7 +1605,8 @@
       "ALA",
       "ácido tióctico"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "clorela",
@@ -1470,7 +1615,8 @@
     "aliases": [
       "chlorella"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "espirulina",
@@ -1479,7 +1625,8 @@
     "aliases": [
       "spirulina"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "colina",
@@ -1490,7 +1637,8 @@
       "lecithin",
       "lecitina"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "nad",
@@ -1501,7 +1649,8 @@
       "nicotinamida",
       "NAD precursor"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "boswellia",
@@ -1512,7 +1661,8 @@
       "incienso indio",
       "ácido boswélico"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "ephedra",
@@ -1523,7 +1673,8 @@
       "ephedrine",
       "efedrina"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "yohimbe",
@@ -1534,7 +1685,8 @@
       "yohimbine",
       "quebrachine"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "belladonna",
@@ -1544,7 +1696,8 @@
       "deadly nightshade",
       "atropa"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "areca",
@@ -1556,7 +1709,8 @@
       "areca nut",
       "supari"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "pelargonium",
@@ -1566,7 +1720,8 @@
       "umckaloabo",
       "rabano del cabo"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "andrographis",
@@ -1576,7 +1731,8 @@
       "chiretta del rey",
       "kalmegh"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "eleuterococo",
@@ -1586,7 +1742,8 @@
       "Siberian ginseng",
       "eleuthero"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "cissus",
@@ -1596,7 +1753,8 @@
       "veldt grape",
       "uva rupestre"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "forskohlii",
@@ -1606,7 +1764,8 @@
       "forskolin",
       "coleus"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "bacopa",
@@ -1616,7 +1775,8 @@
       "brahmi",
       "water hyssop"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "mucuna",
@@ -1627,7 +1787,8 @@
       "cowhage",
       "kapikacchu"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "triphala",
@@ -1637,7 +1798,8 @@
       "tres frutos",
       "haritaki"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "shatavari",
@@ -1647,7 +1809,8 @@
       "esparrago indio",
       "shatamull"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "amla",
@@ -1658,7 +1821,8 @@
       "Indian gooseberry",
       "emblica"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "guduchi",
@@ -1668,7 +1832,8 @@
       "giloy",
       "heart-leaved moonseed"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "neem",
@@ -1679,7 +1844,8 @@
       "nim",
       "margosa"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "tulsi",
@@ -1689,7 +1855,8 @@
       "holy basil",
       "albahaca santa"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "shankhpushpi",
@@ -1699,7 +1866,8 @@
       "speedwheel",
       "bindweed azul"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "trikatu",
@@ -1709,7 +1877,8 @@
       "pimienta larga",
       "tres picantes"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "punarnava",
@@ -1719,7 +1888,8 @@
       "spreading hogweed",
       "boerhavia"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "devil_claw",
@@ -1729,7 +1899,8 @@
       "harpagophytum",
       "secondary devil's claw"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "buchu",
@@ -1740,7 +1911,8 @@
       "bucco",
       "diosma"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "tea_tree",
@@ -1750,7 +1922,8 @@
       "tea tree oil",
       "aceite de melaleuca"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "wild_yam",
@@ -1760,7 +1933,8 @@
       "wild yam",
       "colico root"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "black_walnut",
@@ -1770,7 +1944,8 @@
       "black walnut",
       "nogal americano"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "pau_darco",
@@ -1781,7 +1956,8 @@
       "taheebo",
       "ipe roxo"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "ratama",
@@ -1791,7 +1967,8 @@
       "scotch broom",
       "retama de escobas"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "coltsfoot",
@@ -1801,7 +1978,8 @@
       "coltsfoot",
       "una de caballo"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "comfrey",
@@ -1812,7 +1990,8 @@
       "knitbone",
       "soldacostilla"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "petasites",
@@ -1822,7 +2001,8 @@
       "butterbur",
       "petasites"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "lobelia",
@@ -1833,7 +2013,8 @@
       "pukeweed",
       "asthma weed"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "pennyroyal",
@@ -1844,7 +2025,8 @@
       "mosquito plant",
       "poleo menta"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "blue_cohosh",
@@ -1854,7 +2036,8 @@
       "blue cohosh",
       "papoose root"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "chaparral",
@@ -1865,7 +2048,8 @@
       "gobernadora",
       "hediondilla"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "germander",
@@ -1875,7 +2059,8 @@
       "germander",
       "teucrio"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "sassafras",
@@ -1885,7 +2070,8 @@
       "sassafras",
       "ague tree"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "wormwood",
@@ -1895,7 +2081,8 @@
       "absinthe wormwood",
       "grand wormwood"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "periwinkle",
@@ -1906,7 +2093,8 @@
       "vinca",
       "hierba doncella"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "sweet_annie",
@@ -1916,7 +2104,8 @@
       "sweet wormwood",
       "qinghao"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "spilanthes",
@@ -1927,7 +2116,8 @@
       "paracress",
       "jambu"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "mimosa",
@@ -1938,7 +2128,8 @@
       "dormilona",
       "shameplant"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "perilla",
@@ -1948,7 +2139,8 @@
       "shiso",
       "beefsteak plant"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "jiaogulan",
@@ -1959,7 +2151,8 @@
       "xiancao",
       "herb of immortality"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "berberis_aquifolium",
@@ -1969,7 +2162,8 @@
       "Oregon grape",
       "mahonia"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "picrorrhiza",
@@ -1979,7 +2173,8 @@
       "kutki",
       "katuki"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "sutherlandia",
@@ -1989,7 +2184,8 @@
       "cancer bush",
       "kankerbos"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "rauvolfia",
@@ -2000,7 +2196,8 @@
       "sarpagandha",
       "Indian snakeroot"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "datura",
@@ -2011,7 +2208,8 @@
       "thornapple",
       "toloache"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "henbane",
@@ -2021,7 +2219,8 @@
       "black henbane",
       "stinking nightshade"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "raiz_angelica",
@@ -2031,7 +2230,8 @@
       "garden angelica",
       "Norwegian angelica"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "centaurea",
@@ -2041,7 +2241,8 @@
       "centaury",
       "bitterherb"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "rehmannia",
@@ -2051,7 +2252,8 @@
       "Chinese foxglove",
       "di huang"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "dang_shen",
@@ -2061,7 +2263,8 @@
       "poor man's ginseng",
       "bonnet bellflower"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "fo_ti",
@@ -2071,7 +2274,8 @@
       "he shou wu",
       "fleeceflower root"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "bai_shao",
@@ -2081,7 +2285,8 @@
       "white peony root",
       "bai shao yao"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "huang_qi",
@@ -2091,7 +2296,8 @@
       "milk vetch root",
       "huangqi"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 3
   },
   {
     "id": "wu_wei_zi",
@@ -2101,7 +2307,8 @@
       "southern schisandra",
       "red schisandra berry"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "tian_ma",
@@ -2111,7 +2318,8 @@
       "gastrodia",
       "heaven hemp"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "ku_shen",
@@ -2121,7 +2329,8 @@
       "ku shen",
       "shrubby sophora"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "kudzu",
@@ -2132,7 +2341,8 @@
       "Japanese arrowroot",
       "gegen"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "magnolia_bark",
@@ -2142,7 +2352,8 @@
       "hou po",
       "Chinese magnolia"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "danshen",
@@ -2153,7 +2364,8 @@
       "Chinese sage",
       "tan shen"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "san_qi",
@@ -2164,7 +2376,8 @@
       "tian qi",
       "pseudoginseng"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "chai_hu",
@@ -2174,7 +2387,8 @@
       "Chinese thoroughwax",
       "hare's ear root"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "ban_lan_gen",
@@ -2185,7 +2399,8 @@
       "woad root",
       "banlangen"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "gou_qi_zi",
@@ -2195,7 +2410,8 @@
       "wolfberry",
       "Chinese wolfberry"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "huang_lian",
@@ -2205,7 +2421,8 @@
       "Chinese goldthread",
       "coptis root"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "chuan_xiong",
@@ -2215,7 +2432,8 @@
       "Szechuan lovage",
       "ligusticum"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "yi_mu_cao",
@@ -2225,7 +2443,8 @@
       "Chinese motherwort",
       "leonurus"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "helichrysum",
@@ -2235,7 +2454,8 @@
       "immortelle",
       "curry plant"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "patchouli",
@@ -2245,7 +2465,8 @@
       "patchouli",
       "patchouly"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "vitex_negundo",
@@ -2255,7 +2476,8 @@
       "five-leaved chaste tree",
       "nirgundi"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "cedron_arbol",
@@ -2265,7 +2487,8 @@
       "lemon verbena",
       "verbena limonera"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "cryptolepis",
@@ -2275,7 +2498,8 @@
       "cryptolepis",
       "nibima"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "huangbai",
@@ -2285,7 +2509,8 @@
       "amur cork tree",
       "Chinese corktree"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "ze_xie",
@@ -2295,7 +2520,8 @@
       "Asian water plantain",
       "Oriental alisma"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "yi_yi_ren",
@@ -2306,7 +2532,8 @@
       "coixseed",
       "adlay"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "long_dan_cao",
@@ -2316,7 +2543,8 @@
       "rough gentian",
       "long dan cao"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "huang_jing",
@@ -2326,7 +2554,8 @@
       "Siberian Solomon's seal",
       "huang jing"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "nu_zhen_zi",
@@ -2336,7 +2565,8 @@
       "glossy privet fruit",
       "privet berry"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "tu_si_zi",
@@ -2346,7 +2576,8 @@
       "Chinese dodder",
       "dodder seed"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "bai_zhi",
@@ -2356,7 +2587,8 @@
       "Dahurian angelica root",
       "bai zhi"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "pu_gong_ying",
@@ -2366,7 +2598,8 @@
       "Mongolian dandelion",
       "pu gong ying"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 1
   },
   {
     "id": "bai_hua_she",
@@ -2376,7 +2609,8 @@
       "spreading hedyotis",
       "bai hua she she cao"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "tansy",
@@ -2387,7 +2621,8 @@
       "hierba lombriguera",
       "boton de oro"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "poke_root",
@@ -2397,7 +2632,8 @@
       "pokeweed",
       "fitolaca"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "uncaria_guianensis",
@@ -2407,7 +2643,8 @@
       "gambia cat's claw",
       "paraguayo"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "espuela_caballero",
@@ -2417,7 +2654,8 @@
       "larkspur",
       "field larkspur"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "plumbago",
@@ -2427,7 +2665,8 @@
       "white leadwort",
       "chitrak"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "nauclea",
@@ -2437,7 +2676,8 @@
       "african peach",
       "pin cushion tree"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "trema",
@@ -2446,7 +2686,8 @@
     "aliases": [
       "charcoal tree"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "cat_thyme",
@@ -2456,7 +2697,8 @@
       "cat thyme",
       "teucrio"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "cat_valerian",
@@ -2466,7 +2708,8 @@
       "celtic nard",
       "nardo celta"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "lavanda",
@@ -2477,7 +2720,8 @@
       "espliego",
       "alhucema"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 2
   },
   {
     "id": "cajuput",
@@ -2487,7 +2731,8 @@
       "cajeput oil",
       "paperbark tree"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "yi_zhi_ren",
@@ -2497,7 +2742,8 @@
       "sharp leaf galangal",
       "oxyphylla seed"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "zhi_mu",
@@ -2507,7 +2753,8 @@
       "anemarrhena",
       "zhi mu root"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "huai_hua",
@@ -2517,7 +2764,8 @@
       "pagodatree",
       "Japanese pagoda tree"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "ge_gen",
@@ -2527,7 +2775,8 @@
       "kudzu flower",
       "arrowroot pueraria"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   },
   {
     "id": "wuling_zhi",
@@ -2537,6 +2786,7 @@
       "flying squirrel feces",
       "wu ling zhi"
     ],
-    "article": null
+    "article": null,
+    "interaction_count": 0
   }
 ]
